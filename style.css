@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px pink;
+    font-size: 20px;
+}
+
+p {
+    font-size: 30px;
+    color: blue;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    cursor: pointer;
+    color: chartreuse;
+    font-size: 20px;
+    text-shadow: pink;
+}
+
+a{
+    text-decoration: none;
+    color: cornflowerblue;
+    text-shadow: 2px 2px lightgreen;
+}
+.article:hover{
+    color: deepskyblue;
+}
+.contact_1 a{
+    color: aliceblue;
+    text-shadow: none;
+    font-size: 33;
+}
+.contact_1 h3{
+    display: inline;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+p {
+    color: lightgreen;
+}
+
+#bio {
+    text-align: center;
+    font-family: fantasy;
+}
